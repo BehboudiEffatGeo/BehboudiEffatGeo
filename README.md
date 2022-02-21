@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BehboudiEffatGeo a PhD student in Earth Science
+- 👋 Hi, I’m @BehboudiEffat a PhD student in Earth Science
 - 👀 I’m interested in Energy, Geoscience, and Matlab Programming
 - 🌱 I’m currently learning Python
 <!---
